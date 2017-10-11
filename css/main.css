@@ -16,7 +16,7 @@ footer ul li {
 }
 a {
   text-decoration: none;
-  color: #999;
+  color: #67a0fc;
 }
 a:hover {
   text-decoration: underline;
@@ -24,6 +24,7 @@ a:hover {
 h1 {
   font-size: 3em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  margin-bottom: -10px;
 }
 p {
   font-size: 1.5em;
