@@ -27,7 +27,7 @@ h1 {
   margin-bottom: -10px;
 }
 p {
-  font-size: 1.5em;
+  font-size: 1.3em;
   line-height: 1.4em;
   color: #333;
 }
@@ -45,6 +45,16 @@ ul.posts li {
   list-style: none;
 }
 
-.gitLink {
-  color: #778899;
+.colorLink {
+  color: #3A9FBF;
+}
+
+.pullRight {
+  float: right;
+  font-style: italic;
+}
+
+#resumeName {
+  font-size: 1.5em;
+  font-weight: bold;
 }
