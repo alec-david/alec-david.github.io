@@ -55,6 +55,14 @@ ul.posts li {
 }
 
 #resumeName {
-  font-size: 1.5em;
+  font-size: 1.75em;
   font-weight: bold;
+}
+
+#ProjectList {
+  width: 75%;
+}
+
+#dlResume {
+  font-size: 1.3em;
 }
