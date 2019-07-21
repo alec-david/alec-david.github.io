@@ -1,9 +1,13 @@
 body {
+    background-color: #2f2f2f;
+}
+
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-body > p {
+.container > p {
     font-size: 72px;
 }
